@@ -5,6 +5,6 @@
 
 ## Some profiles to get in touch
 
-- Twitter: https://twitter.om/jppp
+- Twitter: https://twitter.com/jppp
 - LinkedIn: https://www.linkedin.com/in/jpposthuma/
 - Npm: https://www.npmjs.com/~liprec
